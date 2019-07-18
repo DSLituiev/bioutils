@@ -6,8 +6,8 @@ bioutils -- bioinformatics utilities and lookup tables
 
 bioutils provides some common utilities and lookup tables for bioinformatics.
 
-* bioutils.accessions -- parse accessions, infer namespaces 
-* bioutils.assemblies -- Human assembly information (from NCBI/GRCh)
+* bioutils.accessions -- parse human accessions, infer namespaces 
+* bioutils.assemblies -- human assembly information (from NCBI/GRCh)
 * bioutils.cytobands -- map cytobands to coordinates (from UCSC cytoband tables)
 * bioutils.digests -- implementations of various digests
 * bioutils.normalize -- allele normalization (left shuffle, right shuffle, expanded, vcf)
